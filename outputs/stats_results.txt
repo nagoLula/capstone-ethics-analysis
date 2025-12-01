@@ -1,0 +1,14 @@
+                  startdate  ...                  q13
+count                    30  ...                   21
+unique                   28  ...                    3
+top     2025-10-09 18:45:00  ...  Depends on the case
+freq                      2  ...                   13
+mean                    NaN  ...                  NaN
+std                     NaN  ...                  NaN
+min                     NaN  ...                  NaN
+25%                     NaN  ...                  NaN
+50%                     NaN  ...                  NaN
+75%                     NaN  ...                  NaN
+max                     NaN  ...                  NaN
+
+[11 rows x 24 columns]
