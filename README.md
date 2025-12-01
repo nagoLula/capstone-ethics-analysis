@@ -26,7 +26,7 @@ What is the relationship between licensed Speech-Language Pathologists’ years 
 - Data anonymized and stored securely
 - Public repo contains only de-identified data
 
-## 🔍 Analysis Includes
+## Analysis Includes
 
 - Descriptive statistics of survey responses.
 - Likert scale distribution (boxplot).
